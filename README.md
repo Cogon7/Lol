@@ -1,2 +1,2 @@
 # Lol
-kokoz
+Musel sem kokot
